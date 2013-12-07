@@ -1,6 +1,6 @@
 Name: x11-font-arabic-misc
 Version: 1.0.3
-Release: 7
+Release: 8
 Summary: Xorg X11 font arabic-misc
 Group: Development/X11
 URL: http://xorg.freedesktop.org
